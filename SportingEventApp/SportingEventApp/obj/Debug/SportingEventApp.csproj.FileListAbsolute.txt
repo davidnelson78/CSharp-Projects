@@ -1,0 +1,10 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\bin\Debug\SportingEventApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\bin\Debug\SportingEventApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\bin\Debug\SportingEventApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\SportingEventApp\SportingEventApp\obj\Debug\SportingEventApp.pdb

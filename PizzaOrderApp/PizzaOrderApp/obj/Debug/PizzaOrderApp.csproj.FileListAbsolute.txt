@@ -1,0 +1,10 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.BaseForm.resources

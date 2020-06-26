@@ -1,0 +1,5 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
