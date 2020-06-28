@@ -4,12 +4,12 @@ namespace TicTacToeGame
 {
     internal class Info
     {
-        public void DisplayInfo()
+        public void StudentInfo()
         {
             string studentInfo = "David Nelson";
             string courseName = "ITDEV 115-501";
             string dueDate = "20 NOV 2017";
-            string assignment = "Tic Tac Toe with AI";
+            string assignment = "Two Player Tic Tac Toe";
             string instructor = "Robert Menzl";
 
             //Contains my info for ID in assignments

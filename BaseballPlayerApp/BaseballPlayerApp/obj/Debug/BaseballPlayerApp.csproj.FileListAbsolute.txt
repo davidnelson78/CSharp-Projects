@@ -1,0 +1,7 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\obj\Debug\BaseballPlayerApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\obj\Debug\BaseballPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\bin\Debug\BaseballPlayerApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\bin\Debug\BaseballPlayerApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\bin\Debug\BaseballPlayerApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\obj\Debug\BaseballPlayerApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\BaseballPlayerApp\BaseballPlayerApp\obj\Debug\BaseballPlayerApp.pdb

@@ -4,10 +4,10 @@
     {
         private static void Main()
         {
-            Info myInfo = new Info();
+            Info myID = new Info();
             TicTacToeUI theGame = new TicTacToeUI();
 
-            myInfo.DisplayInfo();
+            myID.StudentInfo();
             theGame.Play();
         }
     }

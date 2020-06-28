@@ -1,0 +1,9 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\bin\Debug\DataSetExample.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\bin\Debug\DataSetExample.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\bin\Debug\DataSetExample.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\DataSetExample\DataSetExample\obj\Debug\DataSetExample.pdb

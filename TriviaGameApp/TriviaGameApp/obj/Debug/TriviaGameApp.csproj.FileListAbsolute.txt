@@ -1,0 +1,14 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\bin\Debug\TriviaGameApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.csprojAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\TriviaGameApp\TriviaGameApp\obj\Debug\TriviaGameApp.pdb

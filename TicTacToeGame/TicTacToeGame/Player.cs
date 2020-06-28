@@ -1,6 +1,8 @@
-﻿namespace TicTacToeGame
+﻿using System;
+
+namespace TicTacToeGame
 {
-    internal abstract class Player
+    internal class Player
     {
         private const int NUM_PIECES = 2;
         private char[] PIECES = new char[NUM_PIECES] { 'X', 'O' };
@@ -18,6 +20,25 @@
             return m_piece;
         }
 
-        public abstract void MakeMove(ref TicTacToeLogic aBoard);
+        public void MakeMove(ref TicTacToeLogic aBoard)
+        {
+            int move;
+            TicTacToeUI theGame = new TicTacToeUI();
+            do
+            {
+                theGame.AskMove(GetPiece());
+                string X = Convert.ToString(Console.ReadLine());
+                if (X == "")
+                {
+                    move = Convert.ToInt32("9");
+                }
+                else
+                {
+                    move = Convert.ToInt32(int.Parse(X));
+                }
+            } while (!aBoard.IsLegalMove(move));
+
+            aBoard.ReceiveMove(GetPiece(), move);
+        }
     }
 }

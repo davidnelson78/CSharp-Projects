@@ -1,6 +1,6 @@
 ﻿namespace TicTacToeGame
 {
-    class TicTacToeLogic
+    internal class TicTacToeLogic
     {
         private const int NUM_SQUARE = 9;
         private const char EMPTY = ' ';

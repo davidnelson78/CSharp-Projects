@@ -1,0 +1,7 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\bin\Debug\FarmerGameApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\bin\Debug\FarmerGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\bin\Debug\FarmerGameApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\obj\Debug\FarmerGameApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\obj\Debug\FarmerGameApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\obj\Debug\FarmerGameApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\FarmerGameApp\FarmerGameApp\obj\Debug\FarmerGameApp.pdb

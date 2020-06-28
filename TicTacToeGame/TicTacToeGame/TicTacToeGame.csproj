@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A64D29A7-0274-466E-81FD-5404EEADDE04}</ProjectGuid>
+    <ProjectGuid>{ED916AD7-2C37-447E-9872-B6F082D9C028}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TicTacToeGame</RootNamespace>
     <AssemblyName>TicTacToeGame</AssemblyName>
@@ -42,13 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AIPlayer.cs" />
-    <Compile Include="HumanPlayer.cs" />
-    <Compile Include="Player.cs" />
-    <Compile Include="TicTacToeLogic.cs" />
     <Compile Include="Info.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicTacToeLogic.cs" />
     <Compile Include="TicTacToeUI.cs" />
   </ItemGroup>
   <ItemGroup>

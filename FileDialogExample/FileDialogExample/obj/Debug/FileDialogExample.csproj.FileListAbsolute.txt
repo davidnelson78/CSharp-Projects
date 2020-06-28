@@ -1,0 +1,4 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\FileDialogExample\FileDialogExample\obj\Debug\FileDialogExample.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\FileDialogExample\FileDialogExample\obj\Debug\FileDialogExample.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\FileDialogExample\FileDialogExample\obj\Debug\FileDialogExample.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\FileDialogExample\FileDialogExample\obj\Debug\FileDialogExample.csproj.CoreCompileInputs.cache

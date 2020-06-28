@@ -1,0 +1,7 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\bin\Debug\MoneyApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\bin\Debug\MoneyApp.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\obj\Debug\MoneyApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\obj\Debug\MoneyApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\obj\Debug\MoneyApp.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\MoneyApp\MoneyApp\obj\Debug\MoneyApp.pdb

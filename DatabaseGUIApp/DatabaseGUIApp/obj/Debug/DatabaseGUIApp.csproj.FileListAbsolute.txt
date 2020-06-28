@@ -1,0 +1,10 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGuiApp.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csprojAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGuiApp.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csproj.GenerateResource.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Intermediate OOP Projects\DatabaseGUIApp\DatabaseGUIApp\obj\Debug\DatabaseGUIApp.csproj.CoreCompileInputs.cache

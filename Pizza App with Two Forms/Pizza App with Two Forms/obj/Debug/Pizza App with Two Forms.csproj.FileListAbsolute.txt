@@ -1,0 +1,11 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\bin\Debug\Pizza App with Two Forms.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\bin\Debug\Pizza App with Two Forms.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\bin\Debug\Pizza App with Two Forms.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza App with Two Forms.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza_App_with_Two_Forms.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza_App_with_Two_Forms.Form2.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza_App_with_Two_Forms.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza App with Two Forms.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza App with Two Forms.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza App with Two Forms.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\Pizza App with Two Forms\Pizza App with Two Forms\obj\Debug\Pizza App with Two Forms.pdb

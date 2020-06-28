@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\bin\Debug\ComputerForm.exe.config
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\bin\Debug\ComputerForm.exe
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\bin\Debug\ComputerForm.pdb
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.ClubForm.resources
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.csproj.CoreCompileInputs.cache
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.exe
+c:\users\david\documents\visual studio 2017\Projects\ComputerForm\ComputerForm\obj\Debug\ComputerForm.pdb

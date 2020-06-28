@@ -1,0 +1,10 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\bin\Debug\GUISayingsForm.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\bin\Debug\GUISayingsForm.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\bin\Debug\GUISayingsForm.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\GUISayingsForm\GUISayingsForm\obj\Debug\GUISayingsForm.pdb

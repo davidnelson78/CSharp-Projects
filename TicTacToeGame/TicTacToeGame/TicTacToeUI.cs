@@ -28,10 +28,11 @@ namespace TicTacToeGame
                 theBoard = new TicTacToeLogic();
                 theBoard.Reset();
 
-                HumanPlayer player1 = new HumanPlayer();
-                SetPlayers();
+                Player player1 = new Player();
+                Player player2 = new Player();
 
                 thePlayers[FIRST] = player1;
+                thePlayers[SECOND] = player2;
 
                 //removed extra code here for the players. No longer needed.
 
@@ -131,18 +132,6 @@ namespace TicTacToeGame
             string doAgain = Console.ReadLine();
             string Q = doAgain.ToLower();
             return Q;
-        }
-
-        public void SetPlayers()
-        {
-            string answer;
-            Console.Clear();
-            Console.WriteLine("Player 2, Human (h) or Computer (c)?");
-            answer = Console.ReadLine();
-            if (answer == "h" || answer == "H")
-                thePlayers[SECOND] = new HumanPlayer();
-            else
-                thePlayers[SECOND] = new AIPlayer();
         }
     }
 }
